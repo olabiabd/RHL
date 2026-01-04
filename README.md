@@ -80,4 +80,5 @@ Ensure the following are in place:
 - An IAM Role attached to Redshift with S3 read access
 - The CSV file already uploaded to S3 by this ETL
 
+<img width="1402" height="545" alt="image" src="https://github.com/user-attachments/assets/dde9c3a4-66c6-4199-a65f-aaf37bbe06f7" />
 
